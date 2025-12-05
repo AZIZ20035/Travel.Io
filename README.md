@@ -1,2 +1,16 @@
-# Travel.Io
-Landing Page for Travel Agency - Modern, Responsive Design with Smooth Animations and Interactive UI Elements
+# Travel.Io - Travel Agency Landing Page
+
+Modern and responsive landing page for a travel agency with smooth animations and interactive elements.
+
+## Features
+- Fully responsive design
+- Modern UI/UX
+- Smooth scroll navigation
+- Social media integration
+- Booking form
+- Contact section
+
+## Technologies
+- HTML5
+- CSS3
+- Remix Icons
